@@ -196,11 +196,6 @@ a {
 #footer a {
     color: #555;
 }
-#footer a:hover{
-	color : #303030;
-	font-weight : 800;
-	
-}
 
 .negative {
     display: none;
