@@ -188,6 +188,11 @@ a {
 #footer a {
     color: #555;
 }
+/*highliting few important contents of a page*/
+#footer a:hover{
+	color : #383838 ;
+	font-weight : 800;
+}
 
 .negative {
     display: none;
